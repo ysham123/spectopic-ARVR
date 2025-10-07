@@ -41,7 +41,7 @@ Using device: mps
 Epoch 1: Loss=0.3434, Accuracy=90.23%
 Epoch 2: Loss=0.1438, Accuracy=95.69%
 Epoch 3: Loss=0.0965, Accuracy=97.06%
-✅ Training complete!
+Training complete!
 Model saved to mnist_model.pth
 ```
 
@@ -51,7 +51,7 @@ Using device: mps
 Epoch 1: Loss=0.3454, Accuracy=90.11%
 Epoch 2: Loss=0.1424, Accuracy=95.75%
 Epoch 3: Loss=0.0987, Accuracy=96.98%
-✅ Training complete!
+Training complete!
 Model saved to mnist_model.pth
 ```
 
@@ -61,7 +61,7 @@ Using device: mps
 Epoch 1: Loss=0.3361, Accuracy=90.48%
 Epoch 2: Loss=0.1394, Accuracy=95.87%
 Epoch 3: Loss=0.0949, Accuracy=97.10%
-✅ Training complete!
+Training complete!
 Model saved to mnist_model.pth
 ```
 

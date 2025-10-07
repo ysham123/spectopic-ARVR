@@ -53,7 +53,7 @@ for epoch in range(3):
     acc = 100 * correct / total
     print(f"Epoch {epoch+1}: Loss={total_loss/len(train_loader):.4f}, Accuracy={acc:.2f}%")
 
-print("✅ Training complete!")
+print("Training complete!")
 torch.save(model.state_dict(), "mnist_model.pth")
 print("Model saved to mnist_model.pth")
 
